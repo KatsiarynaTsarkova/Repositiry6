@@ -1,0 +1,15 @@
+C:\Users\kabart-gomel\OneDrive\Рабочий стол\Домашняя раб5\Test2\bin\Debug\net6.0\Test2.exe
+C:\Users\kabart-gomel\OneDrive\Рабочий стол\Домашняя раб5\Test2\bin\Debug\net6.0\Test2.deps.json
+C:\Users\kabart-gomel\OneDrive\Рабочий стол\Домашняя раб5\Test2\bin\Debug\net6.0\Test2.runtimeconfig.json
+C:\Users\kabart-gomel\OneDrive\Рабочий стол\Домашняя раб5\Test2\bin\Debug\net6.0\Test2.dll
+C:\Users\kabart-gomel\OneDrive\Рабочий стол\Домашняя раб5\Test2\bin\Debug\net6.0\Test2.pdb
+C:\Users\kabart-gomel\OneDrive\Рабочий стол\Домашняя раб5\Test2\obj\Debug\net6.0\Test2.csproj.AssemblyReference.cache
+C:\Users\kabart-gomel\OneDrive\Рабочий стол\Домашняя раб5\Test2\obj\Debug\net6.0\Test2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kabart-gomel\OneDrive\Рабочий стол\Домашняя раб5\Test2\obj\Debug\net6.0\Test2.AssemblyInfoInputs.cache
+C:\Users\kabart-gomel\OneDrive\Рабочий стол\Домашняя раб5\Test2\obj\Debug\net6.0\Test2.AssemblyInfo.cs
+C:\Users\kabart-gomel\OneDrive\Рабочий стол\Домашняя раб5\Test2\obj\Debug\net6.0\Test2.csproj.CoreCompileInputs.cache
+C:\Users\kabart-gomel\OneDrive\Рабочий стол\Домашняя раб5\Test2\obj\Debug\net6.0\Test2.dll
+C:\Users\kabart-gomel\OneDrive\Рабочий стол\Домашняя раб5\Test2\obj\Debug\net6.0\refint\Test2.dll
+C:\Users\kabart-gomel\OneDrive\Рабочий стол\Домашняя раб5\Test2\obj\Debug\net6.0\Test2.pdb
+C:\Users\kabart-gomel\OneDrive\Рабочий стол\Домашняя раб5\Test2\obj\Debug\net6.0\Test2.genruntimeconfig.cache
+C:\Users\kabart-gomel\OneDrive\Рабочий стол\Домашняя раб5\Test2\obj\Debug\net6.0\ref\Test2.dll
